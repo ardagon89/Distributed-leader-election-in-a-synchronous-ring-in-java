@@ -1,0 +1,21 @@
+My process id is 3. I AM THE LEADER!
+Joining parent thread. My id is 3
+My process id is 50. My leader is 3
+Joining parent thread. My id is 50
+My process id is 6. My leader is 3
+Joining parent thread. My id is 6
+My process id is 23. My leader is 3
+Joining parent thread. My id is 23
+My process id is 87. My leader is 3
+Joining parent thread. My id is 87
+My process id is 5. My leader is 3
+Joining parent thread. My id is 5
+My process id is 11. My leader is 3
+Joining parent thread. My id is 11
+My process id is 49. My leader is 3
+Joining parent thread. My id is 49
+My process id is 33. My leader is 3
+Joining parent thread. My id is 33
+My process id is 17. My leader is 3
+Joining parent thread. My id is 17
+Parent thread exits
